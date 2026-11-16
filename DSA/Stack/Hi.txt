@@ -1,0 +1,14 @@
+using System;
+using.System.Collection.Generic;
+
+class Pro
+{
+static void Main()
+{
+
+Stack <int> cards = new Stack<int>();
+cards.Push(30);
+cards.Push(90);
+cards.Push(20);
+cards.Push(70);
+cards.Push(10);

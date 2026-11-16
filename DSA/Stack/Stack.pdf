@@ -1,0 +1,46 @@
+using System;
+
+public class Stack
+
+{
+
+private int []items;
+private int top;
+
+public Stack(int size)
+{
+
+items = new int[size];
+top =-1;
+
+}
+
+
+public bool IsEmpty()
+{
+
+return top == -1;
+
+}
+
+public bool IsFull()
+
+{
+
+return top == items.Length-1;
+}
+  public void Push(int item)
+{
+ 
+if(IsFull())
+{
+Console.WriteLine("Stack is full");
+return;
+}
+items[++top]=item;
+}
+
+public int Pop()
+{
+
+}
