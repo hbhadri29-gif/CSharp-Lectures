@@ -2,6 +2,7 @@
 {
     static void Main()
     {
-        LinkedListPro.Run();
+       // LinkedListPro.Run();
+        Even.Run();
     }
 }
