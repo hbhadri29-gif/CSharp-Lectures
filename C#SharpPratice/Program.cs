@@ -2,7 +2,8 @@
 {
     static void Main()
     {
-       // LinkedListPro.Run();
-        Even.Run();
+        // LinkedListPro.Run();
+        //Even.Run();
+        Alternate.Run();
     }
 }
