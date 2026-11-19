@@ -4,6 +4,7 @@
     {
         // LinkedListPro.Run();
         //Even.Run();
-        Alternate.Run();
+        // Alternate.Run();
+        Number.Run();
     }
 }
