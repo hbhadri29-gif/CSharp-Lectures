@@ -5,6 +5,9 @@
         // LinkedListPro.Run();
         //Even.Run();
         // Alternate.Run();
-        Number.Run();
+        // Number.Run();
+        // Circular.Run();
+        Compar.Run();
     }
+
 }
